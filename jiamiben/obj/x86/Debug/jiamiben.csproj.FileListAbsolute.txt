@@ -1,0 +1,17 @@
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.DesMain.resources
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.DesViewer.resources
+D:\Winforms程序\DES\DES\obj\x86\Debug\YPassword.Properties.Resources.resources
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.PwdInput.resources
+D:\Winforms程序\DES\DES\obj\x86\Debug\jiamiben.csproj.GenerateResource.Cache
+D:\Winforms程序\DES\DES\bin\Debug\jiamiben.exe
+D:\Winforms程序\DES\DES\bin\Debug\jiamiben.pdb
+D:\Winforms程序\DES\DES\obj\x86\Debug\jiamiben.exe
+D:\Winforms程序\DES\DES\obj\x86\Debug\jiamiben.pdb
+D:\Winforms程序\jiamiben\jiamiben\obj\x86\Debug\jiamiben.exe
+D:\Winforms程序\jiamiben\jiamiben\obj\x86\Debug\jiamiben.pdb
+D:\Winforms程序\jiamiben\jiamiben\bin\Debug\jiamiben.exe
+D:\Winforms程序\jiamiben\jiamiben\bin\Debug\jiamiben.pdb
+D:\Winforms程序\jiamiben\jiamiben\obj\x86\Debug\YPassword.Properties.Resources.resources
+D:\Winforms程序\jiamiben\jiamiben\obj\x86\Debug\jiamiben.csproj.GenerateResource.Cache
+D:\Winforms程序\jiamiben\jiamiben\obj\x86\Debug\Jiamiben.DesViewer.resources
+D:\Winforms程序\jiamiben\jiamiben\obj\x86\Debug\Jiamiben.PwdInput.resources

@@ -1,0 +1,10 @@
+D:\Winforms程序\DES\DES\bin\Debug\DES.exe
+D:\Winforms程序\DES\DES\bin\Debug\DES.pdb
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.Properties.Resources.resources
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.csproj.GenerateResource.Cache
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.exe
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.pdb
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.DesMain.resources
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.csprojResolveAssemblyReference.cache
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.PwdInput.resources
+D:\Winforms程序\DES\DES\obj\x86\Debug\DES.DesViewer.resources
